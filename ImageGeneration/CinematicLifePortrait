@@ -1,0 +1,76 @@
+PERSONAL HISTORY DISCOVERY ENGINE — MANDATORY
+
+Before generating the image, independently analyze all accessible ChatGPT conversation history and previously shared reference images relevant to the user.
+
+Do not rely on a predefined list of interests, people, objects, purchases, or ambitions. Discover them from the actual history.
+
+1. Discover the user's personal world
+
+Identify and prioritize:
+
+- Important people, relationships, and meaningful personal experiences.
+- Current work, daily routines, responsibilities, and living environment.
+- Existing possessions, devices, equipment, and frequently used tools.
+- Products the user has considered buying, comparing, saving for, or planning to purchase.
+- Technical projects, software, infrastructure, and skills the user is developing or wants to learn.
+- Travel plans, meaningful locations, outdoor activities, and memorable experiences.
+- Education, language learning, immigration processes, personal goals, and future ambitions.
+- Creative interests, business ideas, hobbies, and long-term projects.
+- Specific details repeatedly discussed or emphasized by the user, including recent developments.
+
+Treat the conversation history as the source of truth. Distinguish facts from speculation, completed actions from future plans, and possessions from potential purchases.
+
+2. Retrieve concrete details, not generic categories
+
+For every important discovery, determine how it could be represented visually in a realistic physical environment.
+
+Translate relevant details into appropriate objects, photographs, notes, documents, books, equipment, maps, interfaces, or environmental clues.
+
+Prefer specific details grounded in the user's history over generic objects associated with a broad interest.
+
+For example, do not automatically add a server rack because the user likes technology. Determine which systems, projects, equipment, or learning goals the user actually discussed, and represent those accurately.
+
+Likewise, do not add generic photographs of friends, generic passports, random purchases, or fictional achievements merely to make the room appear personal.
+
+3. Preserve meaningful personal references
+
+When a particular person, relationship, purchase, goal, or project is significant in the accessible history, do not overlook it simply because it is not a common visual motif.
+
+Determine which discoveries deserve explicit visual representation and make them recognizable without turning the image into a checklist.
+
+Use actual reference photographs when available and accessible. Never invent a real person's appearance or claim to have recovered a photograph that cannot be accessed.
+
+Represent planned purchases and future ambitions as plans or aspirations rather than falsely implying ownership or completion.
+
+4. Select the scene from the discoveries
+
+Only after reviewing the available context, design a coherent environment that reflects the user's actual life.
+
+Choose the room, furniture, devices, documents, photographs, and background elements based on the discoveries rather than forcing the user into a predefined cyberpunk aesthetic.
+
+The bedroom and working desk should remain physically believable. Integrate personal details naturally throughout the scene, using a hierarchy of foreground, middle ground, and background.
+
+The image should reward close inspection: important personal discoveries should be visible and meaningful, while secondary details remain subtle.
+
+5. Internal verification before generation
+
+Before rendering, mentally verify:
+
+- Have the most personally significant discoveries been represented?
+- Have important people, projects, plans, and relationships been overlooked?
+- Are planned purchases clearly distinguished from existing possessions?
+- Are the objects grounded in actual history rather than invented?
+- Does every object fit naturally into the room and the chosen camera perspective?
+- Is the image still one coherent, photorealistic photograph rather than a collage?
+
+Revise the composition if important verified details have been omitted.
+
+6. Access and honesty constraints
+
+Use only conversation history, files, and photographs actually accessible to the image-generation system.
+
+If full conversation-history retrieval is unavailable, use the context that is accessible. Never pretend to have searched inaccessible conversations or inspected unavailable images.
+
+Do not ask the user to list details that can already be retrieved from accessible history.
+
+Final rule: Discover the person's identity, relationships, interests, purchases, projects, responsibilities, and ambitions from their own history. Then transform those discoveries into a realistic cinematic photograph. The prompt must not contain a hardcoded personal inventory; the user's history must determine what appears in the image.
